@@ -141,7 +141,7 @@
       "type": "Feature",
       "properties": {
         "popup": "rumah 1",
-        "colour": "#ff6600"
+        "color": "#ff6600"
       },
       "geometry": {
         "coordinates": [
