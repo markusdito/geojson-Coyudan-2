@@ -142,7 +142,7 @@
       "properties": {
         "popup": "rumah 1",
         "fill": "#ff6600",
-        "color": "#ff6600"
+        "border": "#ff6600"
       },
       "geometry": {
         "coordinates": [
