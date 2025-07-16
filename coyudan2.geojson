@@ -106,7 +106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Region": "RT1"
+        "popup": "RT1"
       },
       "geometry": {
         "coordinates": [
@@ -141,7 +141,8 @@
       "type": "Feature",
       "properties": {
         "popup": "rumah 1",
-        "color": "#ff6600"
+        "fill": "#ff6600",
+        "stroke": "#ff6600"
       },
       "geometry": {
         "coordinates": [
