@@ -6,7 +6,8 @@
       "properties": {
         "popup": "RT 3",
         "fill": "#fcfc03",
-        "stroke": "#fcfc03"
+        "stroke": "#fcfc03",
+        "fillOpacity": 1
       },
       "geometry": {
         "coordinates": [
