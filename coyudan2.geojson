@@ -275,7 +275,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 7
     },
     {
       "type": "Feature",
@@ -1882,7 +1883,7 @@
     {
       "type": "Feature",
       "properties": {
-        "popup ": "Rumah Bapak Ervan Nurcahyo"
+        "popup": "Rumah Bapak Ervan Nurcahyo"
       },
       "geometry": {
         "coordinates": [
